@@ -1,0 +1,121 @@
+UVM_INFO seq_item.sv(13) @ 5: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=5 |  rstn=0 t=1 q=0
+UVM_INFO seq_item.sv(13) @ 15: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=15 | rstn=1 t=1 q=0
+UVM_INFO seq_item.sv(13) @ 16: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 25: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=25 |  rstn=1 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 35: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=35 |  rstn=1 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 36: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 45: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=45 |  rstn=1 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 55: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=55 |  rstn=1 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 56: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 65: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=65 |  rstn=1 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 75: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=75 |  rstn=1 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 76: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 85: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=85 |  rstn=1 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 95: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=95 |  rstn=1 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 96: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 105: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=105 |  rstn=1 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 115: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=115 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 116: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 125: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=125 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 135: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=135 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 136: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 145: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=145 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 155: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=155 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 156: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 165: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=165 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 175: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=175 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 176: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 185: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=185 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 195: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=195 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 196: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 205: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=205 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 215: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=215 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 216: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 225: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=225 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 235: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=235 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 236: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 245: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=245 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 255: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=255 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 256: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 265: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=265 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 275: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=275 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 276: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 285: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=285 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 295: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=295 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 296: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 305: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=305 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 315: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=315 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 316: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 325: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=325 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 335: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=335 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 336: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 345: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=345 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 355: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=355 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 356: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 365: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=365 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 375: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=375 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 376: reporter@@seq_item [tff_seq_item] constructor
+UVM_INFO seq_item.sv(13) @ 385: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=385 |  rstn=0 t=0 q=0
+UVM_INFO seq_item.sv(13) @ 395: reporter@@seq_item [tff_seq_item] constructor
+Test Passed Time=395 |  rstn=0 t=0 q=0
+UVM_INFO /apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-1.2/src/base/uvm_objection.svh(1276) @ 395: reporter [TEST_DONE] 'run' phase is ready to proceed to the 'extract' phase
+UVM_INFO /apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-1.2/src/base/uvm_report_server.svh(904) @ 395: reporter [UVM/REPORT/SERVER] 
+--- UVM Report Summary ---
+
+** Report counts by severity
+UVM_INFO :   72
+UVM_WARNING :    0
+UVM_ERROR :    0
+UVM_FATAL :    0
+** Report counts by id
+[RNTST]     1
+[TEST_DONE]     1
+[UVM/RELNOTES]     1
+[score board class]     1
+[tff_agent]     1
+[tff_base_test]     1
+[tff_driver]     1
+[tff_env]     1
+[tff_monitor]     1
+[tff_seq]     2
+[tff_seq_item]    60
+[tff_sequencer]     1
